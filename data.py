@@ -6,11 +6,11 @@ from datetime import timedelta
 tempdata={}
 humdata={}
 config ={
-    'host':'sql10.freesqldatabase.com',
-    'port': 3306,
-    'user':'sql10642156',
-    'password':'u1Hv3aEbhD', 
-    'database':'sql10642156',
+    'host':'',
+    'port': ,
+    'user':'',
+    'password':'', 
+    'database':'',
 }    
 
 def actdata():
